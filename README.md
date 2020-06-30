@@ -1,4 +1,5 @@
 # node-converge
+
 converge API wrapper for Node.js, fully promisified
 
 #### Initialization
@@ -28,6 +29,7 @@ Converge.Card.Create(
     zipcode: 'xxxxx'
 });
 ```
+
 ```
 Converge.Card.Sale(
 {
